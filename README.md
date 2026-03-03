@@ -36,7 +36,7 @@ The simulator reads MIPS instructions, simulates pipeline execution, and validat
 ├── BinomialCoeff.asm
 ├── FindRank.asm
 ├── LCMGCD.asm
-├── *.MachineCode / *.txt
+├── MachineCode.txt
 ├── InputFile.txt
 ├── ProjectReport.pdf
 └── README.md
